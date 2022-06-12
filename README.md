@@ -8,6 +8,4 @@
   <p   align="left">Discord</p>
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yemix&show_icons=true&theme=radical)](https://github.com/yemix)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yemix&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
