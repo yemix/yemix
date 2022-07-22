@@ -1,5 +1,3 @@
-[![DiscordProfileBanner]([https://discord.c99.nl/widget/theme-1/699407455926485064.png)](https://discord.com](https://discord.c99.nl/widget/theme-1/699407455926485064.png)](https://discord.com))
-
 <p align="center">
  <img src="https://discord.c99.nl/widget/theme-1/699407455926485064.png"/>
 </p>
